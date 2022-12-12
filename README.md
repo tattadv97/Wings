@@ -7,11 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 INSTALATION<br>
-1. DOwnload Source Code<br>
-2. Instal Composer<br>
-3. Dplicate Env<br>
-4. Migrate Database<br>
-5. Seeder Database<br>
+1. Download Source Code<br>
+2. Install Composer<br>
+3. Duplicate .env.example -> .env<br>
+4. Migrate Database -> php artisan migrate:fresh<br>
+5. Seeder Database -> php artisan migrate:fresh --seed<br>
 
 <br>
 ## About Laravel
